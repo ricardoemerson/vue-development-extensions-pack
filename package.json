@@ -1,0 +1,33 @@
+{
+    "name": "vue-development-extensions-pack",
+    "displayName": "Vue Development Extensions Pack",
+    "description": "A set of useful extensions for Vue projects.",
+    "version": "1.0.0",
+    "publisher": "ricardo-emerson",
+    "icon": "extension-icon.png",
+    "repository": "https://github.com/ricardoemerson/vue-development-extensions-pack",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "keywords": [
+        "development",
+        "Vue"
+	],
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "dariofuzinato.vue-peek",
+        "davidbernegger.vuevelocidad",
+        "ducksoupdev.Vue2",
+        "hollowtree.vue-snippets",
+        "ishiyama.vue-autoimport",
+        "peakchen90.vue-beautify",
+        "sdras.vue-vscode-snippets",
+        "vaniship.vue-ls-snippets",
+        "octref.vetur"
+    ],
+    "__metadata": {
+		"publisherDisplayName": "Ricardo Emerson"
+	}
+}
