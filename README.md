@@ -1,6 +1,6 @@
-# VS Code Vue Development Extensions Pack
+# Vue Development Extensions Pack
 
-This extension pack packages some useful extensions for Vue development in VS Code.
+This extension package contains useful extensions for working with Vue in visual studio code.
 
 ### Extensions Included
 
