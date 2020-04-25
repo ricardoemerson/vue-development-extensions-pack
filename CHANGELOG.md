@@ -2,6 +2,10 @@
 
 All notable changes to the "vue-development-extensions-pack" extension pack will be documented in this file.
 
+## [1.0.2]
+
+- Updated the Readme.md file.
+
 ## [1.0.1]
 
 - Fix the README.

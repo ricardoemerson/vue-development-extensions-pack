@@ -2,7 +2,7 @@
     "name": "vue-development-extensions-pack",
     "displayName": "Vue Development Extensions Pack",
     "description": "A set of useful extensions for Vue projects.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "ricardo-emerson",
     "icon": "extension-icon.png",
     "repository": "https://github.com/ricardoemerson/vue-development-extensions-pack",
